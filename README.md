@@ -31,4 +31,4 @@ ecommerce-project
 ```
 
 ## Author
-Your Name
+Shweta Malavi
